@@ -49,7 +49,7 @@ code_blocks:
 #   icon: link || the description || color
 social:
    fab fa-github: https://github.com/MalanC43 || Github || '#24292e'
-   fas fa-envelope: mailto:15120826777@163.com || Email || '#4a7dbe'
+   fas fa-envelope: marchlop@malanc43.blog || Email || '#4a7dbe'
    fas fa-rss: https://www.malanc43.blog/atom.xml || RSS || '#000000'
 
 # --------------------------------------
@@ -294,7 +294,7 @@ aside:
       link: https://www.malanc43.blog/about/
   card_announcement:
     enable: true
-    content: 希望没事（
+    content: RIP
   card_recent_post:
     enable: true
     # If set 0 will show all
